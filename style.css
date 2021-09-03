@@ -1,0 +1,14 @@
+#div_list{
+    background-color: rgb(80, 127, 165);
+    border-radius: 20px;
+    font-size: 20px;
+    width: 40%;
+    font-family: 'Kaisei Tokumin', serif;
+}
+h1{
+    font-family: 'Kaisei Tokumin', serif;
+    background-color: yellowgreen;
+    border-radius: 15px;
+    width:50%;
+    padding: 10 10 10 10;
+}
